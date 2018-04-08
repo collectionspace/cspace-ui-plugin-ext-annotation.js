@@ -13,6 +13,10 @@ export default (configContext) => {
     configKey: config,
   } = configContext.configHelpers;
 
+  const {
+    DATA_TYPE_DATE,
+  } = configContext.dataTypes;
+
   return {
     'ns2:collectionobjects_annotation': {
       [config]: {
@@ -81,6 +85,7 @@ export default (configContext) => {
           },
           annotationDate: {
             [config]: {
+              dataType: DATA_TYPE_DATE,
               messages: defineMessages({
                 fullName: {
                   id: 'field.collectionobjects_annotation.annotationDate.fullName',
