@@ -3,7 +3,7 @@
 global.testParams = {
 
   adminUser: {
-    username: 'admin@annotation.collectionspace.org',
+    username: 'admin@core.collectionspace.org',
     password: 'Administrator',
     screenName: 'Administrator',
   },
