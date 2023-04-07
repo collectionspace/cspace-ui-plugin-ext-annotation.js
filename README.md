@@ -1,6 +1,7 @@
 # cspace-ui-plugin-ext-annotation
 
-[![build status](https://travis-ci.org/collectionspace/cspace-ui-plugin-ext-annotation.js.svg?branch=master)](https://travis-ci.org/collectionspace/cspace-ui-plugin-ext-annotation.js)
+[![npm package](https://img.shields.io/npm/v/cspace-ui-plugin-ext-annotation.svg)](https://www.npmjs.com/package/cspace-ui-plugin-ext-annotation)
+[![continuous integration](https://github.com/collectionspace/cspace-ui-plugin-ext-annotation.js/actions/workflows/ci-js.yml/badge.svg?branch=master&event=push)](https://github.com/collectionspace/cspace-ui-plugin-ext-annotation.js/actions/workflows/ci-js.yml)
 
 Annotation extension plugin for the CollectionSpace UI.
 
